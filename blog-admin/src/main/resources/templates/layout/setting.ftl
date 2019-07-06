@@ -62,11 +62,11 @@
                         <i class="fa fa-desktop"> 访问前台</i>
                     </a>
                 </li>
-                <li>
+                <#--<li>
                     <a class="pointer" data-toggle="modal" data-target="#reward">
                         <i class="fa fa-cny"> 捐赠博主</i>
                     </a>
-                </li>
+                </li>-->
             </ul>
         </nav>
     </div>
@@ -74,7 +74,7 @@
 
 <div class="modal fade" id="reward" tabindex="-1" role="dialog">
     <div class="modal-dialog">
-        <div class="modal-content">
+        <#--<div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                 <h4 class="modal-title">捐赠博主 <small>码代码很累的！天热了，请作者吃根冰棍儿吧！<i class="fa fa-smile-o"></i></small></h4>
@@ -92,7 +92,7 @@
                     转账时请备注“<strong>博客赞助</strong>”，并另附上您的称呼（方便博主统计）
                 </div>
             </div>
-        </div>
+        </div>-->
         <small class="font-bold"></small>
     </div>
     <small class="font-bold"> </small>

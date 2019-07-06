@@ -30,11 +30,6 @@
                 <@praise></@praise>
             </div>
         </div>
-        <#--<div class="col-sm-12 blog-main">
-            <div class="blog-body expansion">
-                <div id="comment-box" data-id="-3"></div>
-            </div>
-        </div>-->
     </div>
 </div>
 
